@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:toktik_210256/main.dart';
 import 'package:toktik_210256/presentation/providers/discover_provider.dart';
 import 'package:toktik_210256/presentation/widgets/shared/video_scrollable_view.dart';
 
